@@ -1,0 +1,33 @@
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+venv/
+.env
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# User Configuration (Keep template config.example.json only)
+config/config.json
+
+# Sensitive Wallet Data & Private Targets (DO NOT COMMIT)
+data/wallets.txt
+data/wallets_mapping.txt
+data/referral_targets.txt
+data/referrals_generated.txt
+data/tokens.json
+data/proxies.txt
+data/*.backup.txt
+data/*_backup.txt
+data/imported_mnemonic_backup.txt
+data/generated_wallets_backup.txt
+
+# Execution Reports
+reports/*.csv
+!reports/.gitkeep

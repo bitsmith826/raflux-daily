@@ -1,0 +1,13 @@
+{
+  "referral_code": "YOUR_REFERRAL_CODE",
+  "fallback_referral_code": "",
+  "auto_claim_referral": true,
+  "auto_collect_welcome_points": true,
+  "auto_daily_checkin": true,
+  "auto_claim_quests": true,
+  "delay_between_wallets_sec": [2, 4],
+  "enable_proxy": false,
+  "loop_mode": false,
+  "loop_interval_hours": 24,
+  "api_base_url": "https://api.raflux.io/solana/v1"
+}

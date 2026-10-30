@@ -1,0 +1,6 @@
+# Masukkan private key wallet Solana Anda di sini (satu baris per akun)
+# Format: Base58 string (misal dari export Phantom/Solflare) atau JSON byte array
+# Contoh:
+# 5MiiX2...
+# 4p6HY...
+# [12,34,56,...]

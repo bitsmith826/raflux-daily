@@ -1,0 +1,6 @@
+# Masukkan link referral atau kode referral target di sini (satu per baris)
+# Format opsional: KODE:JUMLAH atau LINK:JUMLAH (Default target: 20 akun)
+#
+# Contoh:
+# https://raflux.io/?ref=12345678
+# 87654321:25
